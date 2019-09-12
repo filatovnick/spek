@@ -1,3 +1,7 @@
+# mkdocs
+site/
+p3/
+
 # Java specific
 *.class
 target
@@ -32,3 +36,5 @@ lib/kotlin-runtime.jar
 */target/*
 .idea/
 *.iml
+
+/local.properties
